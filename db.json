@@ -1,0 +1,84 @@
+{
+  "dispositivos": [
+    {
+      "id": 1,
+      "marca": "Apple",
+      "modelo": "iPhone 13",
+      "color": "Negro",
+      "almacenamiento": "128 GB",
+      "procesador": "A15 Bionic"
+    },
+    {
+      "id": 2,
+      "marca": "Samsung",
+      "modelo": "Galaxy S22",
+      "color": "Blanco",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 1"
+    },
+    {
+      "id": 3,
+      "marca": "Xiaomi",
+      "modelo": "Redmi Note 13 Pro",
+      "color": "Azul",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 7s Gen 2"
+    },
+    {
+      "id": 4,
+      "marca": "Motorola",
+      "modelo": "Edge 40 Neo",
+      "color": "Verde",
+      "almacenamiento": "256 GB",
+      "procesador": "Dimensity 7030"
+    },
+    {
+      "id": 5,
+      "marca": "Apple",
+      "modelo": "iPhone 15 Pro",
+      "color": "Titanio Natural",
+      "almacenamiento": "512 GB",
+      "procesador": "A17 Pro"
+    },
+    {
+      "id": 6,
+      "marca": "Samsung",
+      "modelo": "Galaxy A54",
+      "color": "Violeta",
+      "almacenamiento": "128 GB",
+      "procesador": "Exynos 1380"
+    },
+    {
+      "id": 7,
+      "marca": "Google",
+      "modelo": "Pixel 8",
+      "color": "Gris",
+      "almacenamiento": "128 GB",
+      "procesador": "Google Tensor G3"
+    },
+    {
+      "id": 8,
+      "marca": "OnePlus",
+      "modelo": "11 5G",
+      "color": "Negro",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 8 Gen 2"
+    },
+    {
+      "id": 9,
+      "marca": "Motorola",
+      "modelo": "Moto G84",
+      "color": "Rojo",
+      "almacenamiento": "256 GB",
+      "procesador": "Snapdragon 695"
+    },
+    {
+      "id": 10,
+      "marca": "Xiaomi",
+      "modelo": "Poco X6 Pro",
+      "color": "Amarillo",
+      "almacenamiento": "512 GB",
+      "procesador": "Dimensity 8300 Ultra"
+    }
+  ]
+}
